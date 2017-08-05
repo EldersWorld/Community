@@ -1,2 +1,4 @@
 # Community
-Repository dedicated to Elders World's Community. General Chat &amp; Bugtracker.
+Repository dédié à la communautée d'Elders World.
+
+ÉDITÉ PROCHAINEMENT
