@@ -17,8 +17,9 @@ COMMENT REJOINDRE ELDERS WORLD
 -mdp: lgdh
 
 
-4. Créer votre compte pour vous connecter en jeu sur cette page : http://25.6.12.250/index.php 
-(si vous n'y arrivez pas utilisez le compte: test / 123 pour contacter l'équipe en jeu en ouvrant une requête dans laquelle vous indiquerez Username /password et email désirés pour la création du compte.)
+4. Une fois connecté sur un des résaux, vous pourrez accéder à notre site : http://25.6.12.250/index.php 
+Créer votre compte pour vous connecter en jeu sur a page d'acceuil ou nous rejoindre.
+(si vous rencontrer le moindre soucis, ouvrez une issue ici.)
 
 
 3. Télécharger notre launcher (si vous avez déjà un client complet 1.12.1 vous pouvez passer cette étape et passer directement à la 5.) : https://mega.nz/#!aMxSibSB!ZVzNjD8uF4831UQoNoMscI7m-d9g0DFCmIAKdzFyMLY 
