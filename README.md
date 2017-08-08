@@ -34,4 +34,4 @@ set realmlist "25.6.12.250"
 
 -------------------------------------------------------------------------------
 
-Tous les contacts avec l'équipe se font principalement en jeu. 
+
