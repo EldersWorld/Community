@@ -24,6 +24,8 @@ Password :auth3
 V. Ouvrir votre navigateur internet vous rendre sur http://25.6.7.82, vous pourrez y créer votre compte et consulter les différentes infos sur le projet Elders World. 
 
 VI. Enjoy ! 
+
+
 -------------------------------------------------------------------------------
 
 RESSOURCES : 
